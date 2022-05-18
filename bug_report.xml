@@ -16,11 +16,11 @@
         <Browser>Chrome</Browser>
     </Environment>
     <BugDetails>
-        <StepsToReprodece>
+        <StepsToReproduce>
             <Step_1>Open the Home Page</Step_1>
             <Step_2>Click the drop-down menu in the navigation bar</Step_2>
             <Step_3>Enter your email adress and click on the proceed button</Step_3>
-        </StepsToReprodece>
+        </StepsToReproduce>
         <ExpectedResult>I should've been taken to the player page when I clicked on the proceed button</ExpectedResult>
         <ActualResult>When I clicked on the proceed button, it showed an "error" message</ActualResult>
         <Description>-</Description>
